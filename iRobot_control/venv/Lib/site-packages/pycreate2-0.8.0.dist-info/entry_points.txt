@@ -1,0 +1,5 @@
+[console_scripts]
+create_monitor=pycreate2.bin.create_monitor:main
+create_reset=pycreate2.bin.create_reset:main
+create_shutdown=pycreate2.bin.create_shutdown:main
+
